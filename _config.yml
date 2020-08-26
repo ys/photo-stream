@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: photos.tylucie.fr
-email: yannick@tylucie.fr
+title: photos.vadrouilles.co
+email: yannick@vadrouilles.co
 author:
   name: Yannick Schutz
-  email: yannick@tylucie.fr #optional
-  website: https://tylucie.fr
+  email: yannick@vadrouilles.co #optional
+  website: https://vadrouilles.co
 description: >- # this means to ignore newlines until "baseurl:"
-  Our live in Brittany
+  Some shots I enjoy
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://photos.tylucie.fr/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://photos.vadrouilles.co/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yann_ck
 instagram_username: vadrouilles.co
 
